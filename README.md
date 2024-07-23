@@ -4,7 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishjaiswal09?tab=repositories](https://github.com/krishjaiswal09?tab=repositories)
 
-- 💬 Ask me about **React, JavaScript, Projects i have made**
+- 💬 Ask me about **React,
+- JavaScript,
+- Projects i have made**
 
 - 📫 How to reach me **krishjaiswal67890@gmail.com**
 
