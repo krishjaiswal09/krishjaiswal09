@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align = "right" alt = "coding" wifth="400" src="![image](https://github.com/user-attachments/assets/ac011105-3fc0-417d-b7e6-6a0297456ddb)
+">
 - 👨‍💻 All of my projects are available at [https://github.com/krishjaiswal09?tab=repositories](https://github.com/krishjaiswal09?tab=repositories)
 
 - 📫 How to reach me **krishjaiswal67890@gmail.com**
