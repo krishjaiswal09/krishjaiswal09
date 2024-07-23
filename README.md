@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krish jaiswal</h1>
-<h3 align="center">A passionate MERN stack frontend developer skilled in crafting dynamic, user-friendly web applications with meticulous attention to detail.</h3>
+<h3 align="centre">A passionate MERN stack frontend developer skilled in crafting dynamic, user-friendly web applications with meticulous attention to detail.</h3>
 <img align = "right" alt = "coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishjaiswal09?tab=repositories](https://github.com/krishjaiswal09?tab=repositories)
 
-- 💬 Ask me about **React,
-- JavaScript,
-- Projects i have made**
+- 💬 Ask me about **React, JavaScript, and Projects I have made**
 
 - 📫 How to reach me **krishjaiswal67890@gmail.com**
 
