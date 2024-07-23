@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/krishjaiswal09?tab=repositories](https://github.com/krishjaiswal09?tab=repositories)
 
 - 📫 How to reach me **krishjaiswal67890@gmail.com**
@@ -11,6 +12,7 @@
 <p align="left">
 <a href="https://dev.to/@krishjaiswal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@krishjaiswal09" height="30" width="40" /></a>
 <a href="https://codesandbox.com/krishjaiswal67890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="krishjaiswal67890" height="30" width="40" /></a>
+<a href="https://instagram.com/krishhhhhhhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishhhhhhhh__" height="30" width="40" /></a>
 <a href="https://discord.gg/ass_god" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ass_god" height="30" width="40" /></a>
 </p>
 
